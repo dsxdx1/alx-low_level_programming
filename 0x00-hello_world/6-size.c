@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *  main - stuff
- *  description - uses printf 
- *  Return: returns 0
+ * main - stuff
+ * description - uses printf
+ * Return: returns 0
  */
 int main(void)
 {
