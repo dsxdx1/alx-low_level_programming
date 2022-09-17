@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - checks if c is a letter 
- * @c: The argument 
+ * _isalpha - checks if c is a letter
+ * @c: The argument
  * Return: returns 1 on success and 0 0n fail.
  */
 int _isalpha(int c)
@@ -12,6 +12,6 @@ int _isalpha(int c)
 	}
 	else
 	{
-		return(0);
+		return (0);
 	}
 }
