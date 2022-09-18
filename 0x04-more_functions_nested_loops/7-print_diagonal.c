@@ -6,11 +6,11 @@
  */
 void print_diagonal(int n)
 {
-       	int i, bar;
-	
+	int i, bar;
+
 	if (n <= 0)
-       	{
-	       	_putchar('\n');
+	{
+		_putchar('\n');
 	}
 	else
 	{
